@@ -1,0 +1,94 @@
+
+
+.navbar {
+    background-color: #e7e7e7;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.navbar-brand > .glyphicon
+{
+  padding-right: 10px;
+  color: #666666;
+}
+
+.navbar-menu-left {
+  padding-left: 15px;
+}
+
+.twitter-search
+{
+  border-radius: 30px 0px 0px 30px;
+}
+
+.twitter-search-btn
+{
+  border-radius: 0px 30px 30px 0px;
+  cursor:pointer;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+}
+
+.padding-top
+{
+  padding-top: 15px;
+}
+
+.padding-left
+{
+  padding-left: 40px;
+}
+
+.padding-left-nav
+{
+  padding-left: 20px;
+}
+
+.padding-right
+{
+  padding-right: 60px;
+}
+
+.padding-right-small
+{
+  padding-right: 33px;
+}
+.padding-right-small-pic
+{
+  padding-right: 7px;
+}
+
+.color-blue
+{
+  color: #3366BB;
+}
+
+.bar {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-top: 1px solid lightgray;
+}
+
+.top-right {
+  position: fixed;
+  padding-left: 400px !important;
+  padding-right: 0px !important;
+}
+
+.textbox {
+  display: block;
+  width: 100%;
+  min-height: 28px;        // Make inputs at least the height of their button counterpart
+  .box-sizing(border-box); // Makes inputs behave like true block-level elements
+}
+
+.color-bottom {
+  background-color: #e7e7e7;
+  margin-top: 15px;
+  margin-bottom: -30px;
+  border-top: 1px solid lightgray;
+  padding-top: 10px;
+  padding-bottom: 15px;
+}
